@@ -1,3 +1,15 @@
-Esse é o primeiro exercicio de criação de dahsboard tratando da analíse de vendas de uma empresa fantasia.
+Esse é o primeiro exercicio de criação de dahsboard, um treinamento realizado na Fabridata.
+Uma análise de faturamento de uma empresa fantasia.
+Nesse relatório temos elementos indicadores de:
 
-Link do Dashboard: https://app.powerbi.com/links/EeSOYX0Cuv?ctid=e191a7f6-b49f-472c-ba99-12de132ea1df&pbi_source=linkShare
+ - Total de Vendas;
+ - Meta de Vendas;
+ - KPI de performance;
+ - KPI com indicador gráfico;
+ - Filtro interativo dos vendedores e categorias;
+ - Gráfico de rosca com os produtos mais vendidos;
+ - Gráfico de Rosca com as categorias mais vendidas;
+ - Um gráfico de barras e linhas to total de vendas ao longo de dois anos;
+ - Um histograma com a prograssão de vendas;
+ - E uma lista das datas de maior faturamento.
+ 
