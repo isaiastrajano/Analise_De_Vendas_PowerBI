@@ -15,3 +15,6 @@ Nesse relatório temos elementos indicadores de:
  - Um gráfico de barras e linhas to total de vendas ao longo de dois anos;
  - Um histograma com a prograssão de vendas;
  - E uma lista das datas de maior faturamento.
+
+
+Foi adicionado uma imagem em JPEG para melhor visualização.
